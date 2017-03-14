@@ -1,0 +1,526 @@
+/* ----------------------------------------------------
+   created with http://www.emotion.texturepacker.emotion.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:42831e6ad1e3e16e40f8c14f30146539$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+.emotion {
+    display: inline-block;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-image: url('/images/smiles/emotions.png');
+}
+
+.emotion.angel {
+    width: 19px;
+    height: 19px;
+    background-position: -2px -2px;
+}
+
+.emotion.angry {
+    width: 19px;
+    height: 19px;
+    background-position: -23px -2px;
+}
+
+.emotion.bandit {
+    width: 19px;
+    height: 19px;
+    background-position: -44px -2px;
+}
+
+.emotion.bear {
+    width: 19px;
+    height: 19px;
+    background-position: -65px -2px;
+}
+
+.emotion.beer {
+    width: 19px;
+    height: 19px;
+    background-position: -86px -2px;
+}
+
+.emotion.bigsmile {
+    width: 19px;
+    height: 19px;
+    background-position: -107px -2px;
+}
+
+.emotion.blush {
+    width: 19px;
+    height: 19px;
+    background-position: -128px -2px;
+}
+
+.emotion.bow {
+    width: 19px;
+    height: 19px;
+    background-position: -149px -2px;
+}
+
+.emotion.brokenheart {
+    width: 19px;
+    height: 19px;
+    background-position: -170px -2px;
+}
+
+.emotion.bug {
+    width: 19px;
+    height: 18px;
+    background-position: -191px -2px;
+}
+
+.emotion.cake {
+    width: 19px;
+    height: 19px;
+    background-position: -212px -2px;
+}
+
+.emotion.call {
+    width: 19px;
+    height: 19px;
+    background-position: -233px -2px;
+}
+
+.emotion.cash {
+    width: 19px;
+    height: 19px;
+    background-position: -2px -23px;
+}
+
+.emotion.clapping {
+    width: 19px;
+    height: 19px;
+    background-position: -23px -23px;
+}
+
+.emotion.coffee {
+    width: 19px;
+    height: 19px;
+    background-position: -44px -23px;
+}
+
+.emotion.cool {
+    width: 19px;
+    height: 19px;
+    background-position: -65px -23px;
+}
+
+.emotion.crying {
+    width: 19px;
+    height: 19px;
+    background-position: -86px -23px;
+}
+
+.emotion.dance {
+    width: 19px;
+    height: 19px;
+    background-position: -107px -23px;
+}
+
+.emotion.devil {
+    width: 19px;
+    height: 19px;
+    background-position: -128px -23px;
+}
+
+.emotion.doh {
+    width: 19px;
+    height: 19px;
+    background-position: -149px -23px;
+}
+
+.emotion.drink {
+    width: 19px;
+    height: 19px;
+    background-position: -170px -23px;
+}
+
+.emotion.drunk {
+    width: 19px;
+    height: 19px;
+    background-position: -191px -23px;
+}
+
+.emotion.dull {
+    width: 19px;
+    height: 19px;
+    background-position: -212px -23px;
+}
+
+.emotion.emo {
+    width: 19px;
+    height: 19px;
+    background-position: -233px -23px;
+}
+
+.emotion.envy {
+    width: 19px;
+    height: 19px;
+    background-position: -2px -44px;
+}
+
+.emotion.evilgrin {
+    width: 19px;
+    height: 19px;
+    background-position: -23px -44px;
+}
+
+.emotion.flower {
+    width: 19px;
+    height: 19px;
+    background-position: -44px -44px;
+}
+
+.emotion.fubar {
+    width: 19px;
+    height: 19px;
+    background-position: -65px -44px;
+}
+
+.emotion.giggle {
+    width: 19px;
+    height: 19px;
+    background-position: -86px -44px;
+}
+
+.emotion.handshake {
+    width: 19px;
+    height: 19px;
+    background-position: -107px -44px;
+}
+
+.emotion.happy {
+    width: 19px;
+    height: 19px;
+    background-position: -128px -44px;
+}
+
+.emotion.headbang {
+    width: 19px;
+    height: 19px;
+    background-position: -149px -44px;
+}
+
+.emotion.heart {
+    width: 19px;
+    height: 19px;
+    background-position: -170px -44px;
+}
+
+.emotion.heidy {
+    width: 19px;
+    height: 19px;
+    background-position: -191px -44px;
+}
+
+.emotion.hi {
+    width: 19px;
+    height: 19px;
+    background-position: -212px -44px;
+}
+
+.emotion.inlove {
+    width: 19px;
+    height: 19px;
+    background-position: -233px -44px;
+}
+
+.emotion.itwasntme {
+    width: 19px;
+    height: 19px;
+    background-position: -2px -65px;
+}
+
+.emotion.kiss {
+    width: 19px;
+    height: 19px;
+    background-position: -23px -65px;
+}
+
+.emotion.lipssealed {
+    width: 19px;
+    height: 19px;
+    background-position: -44px -65px;
+}
+
+.emotion.mail {
+    width: 19px;
+    height: 19px;
+    background-position: -65px -65px;
+}
+
+.emotion.makeup {
+    width: 19px;
+    height: 19px;
+    background-position: -86px -65px;
+}
+
+.emotion.middlefinger {
+    width: 19px;
+    height: 19px;
+    background-position: -107px -65px;
+}
+
+.emotion.mmm {
+    width: 19px;
+    height: 19px;
+    background-position: -128px -65px;
+}
+
+.emotion.mooning {
+    width: 19px;
+    height: 19px;
+    background-position: -149px -65px;
+}
+
+.emotion.movie {
+    width: 19px;
+    height: 19px;
+    background-position: -170px -65px;
+}
+
+.emotion.muscle {
+    width: 19px;
+    height: 19px;
+    background-position: -191px -65px;
+}
+
+.emotion.music {
+    width: 19px;
+    height: 19px;
+    background-position: -212px -65px;
+}
+
+.emotion.nerd {
+    width: 19px;
+    height: 19px;
+    background-position: -233px -65px;
+}
+
+.emotion.ninja {
+    width: 19px;
+    height: 19px;
+    background-position: -2px -86px;
+}
+
+.emotion.no {
+    width: 19px;
+    height: 19px;
+    background-position: -23px -86px;
+}
+
+.emotion.nod {
+    width: 19px;
+    height: 19px;
+    background-position: -44px -86px;
+}
+
+.emotion.party {
+    width: 19px;
+    height: 19px;
+    background-position: -65px -86px;
+}
+
+.emotion.phone {
+    width: 19px;
+    height: 19px;
+    background-position: -86px -86px;
+}
+
+.emotion.pizza {
+    width: 19px;
+    height: 19px;
+    background-position: -107px -86px;
+}
+
+.emotion.poolparty {
+    width: 19px;
+    height: 19px;
+    background-position: -128px -86px;
+}
+
+.emotion.puke {
+    width: 19px;
+    height: 19px;
+    background-position: -149px -86px;
+}
+
+.emotion.punch {
+    width: 19px;
+    height: 19px;
+    background-position: -170px -86px;
+}
+
+.emotion.rain {
+    width: 19px;
+    height: 19px;
+    background-position: -191px -86px;
+}
+
+.emotion.rock {
+    width: 19px;
+    height: 19px;
+    background-position: -212px -86px;
+}
+
+.emotion.rofl {
+    width: 19px;
+    height: 19px;
+    background-position: -233px -86px;
+}
+
+.emotion.sadsmile {
+    width: 19px;
+    height: 19px;
+    background-position: -2px -107px;
+}
+
+.emotion.shake {
+    width: 19px;
+    height: 19px;
+    background-position: -23px -107px;
+}
+
+.emotion.sleepy {
+    width: 19px;
+    height: 19px;
+    background-position: -44px -107px;
+}
+
+.emotion.smile {
+    width: 19px;
+    height: 19px;
+    background-position: -65px -107px;
+}
+
+.emotion.smirk {
+    width: 19px;
+    height: 19px;
+    background-position: -86px -107px;
+}
+
+.emotion.smoke {
+    width: 19px;
+    height: 19px;
+    background-position: -107px -107px;
+}
+
+.emotion.speechless {
+    width: 19px;
+    height: 19px;
+    background-position: -128px -107px;
+}
+
+.emotion.star {
+    width: 19px;
+    height: 19px;
+    background-position: -149px -107px;
+}
+
+.emotion.sun {
+    width: 19px;
+    height: 19px;
+    background-position: -170px -107px;
+}
+
+.emotion.swear {
+    width: 19px;
+    height: 19px;
+    background-position: -191px -107px;
+}
+
+.emotion.sweating {
+    width: 19px;
+    height: 19px;
+    background-position: -212px -107px;
+}
+
+.emotion.talking {
+    width: 19px;
+    height: 19px;
+    background-position: -233px -107px;
+}
+
+.emotion.thinking {
+    width: 19px;
+    height: 19px;
+    background-position: -2px -128px;
+}
+
+.emotion.time {
+    width: 19px;
+    height: 19px;
+    background-position: -23px -128px;
+}
+
+.emotion.tmi {
+    width: 19px;
+    height: 19px;
+    background-position: -44px -128px;
+}
+
+.emotion.toivo {
+    width: 19px;
+    height: 19px;
+    background-position: -65px -128px;
+}
+
+.emotion.tongueout {
+    width: 19px;
+    height: 19px;
+    background-position: -86px -128px;
+}
+
+.emotion.wait {
+    width: 19px;
+    height: 19px;
+    background-position: -107px -128px;
+}
+
+.emotion.whew {
+    width: 19px;
+    height: 19px;
+    background-position: -128px -128px;
+}
+
+.emotion.wink {
+    width: 19px;
+    height: 19px;
+    background-position: -149px -128px;
+}
+
+.emotion.wondering {
+    width: 19px;
+    height: 19px;
+    background-position: -170px -128px;
+}
+
+.emotion.worried {
+    width: 19px;
+    height: 19px;
+    background-position: -191px -128px;
+}
+
+.emotion.yawn {
+    width: 19px;
+    height: 19px;
+    background-position: -212px -128px;
+}
+
+.emotion.yes {
+    width: 19px;
+    height: 19px;
+    background-position: -233px -128px;
+}
+
+.bigsmile .emotion {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}

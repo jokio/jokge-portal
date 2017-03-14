@@ -1,0 +1,263 @@
+{
+  "common": {
+    "Copy": "კოპირება",
+    "Points": "ქულა",
+    "Rating": "რეიტინგი",
+    "BeFriends": "ვიმეგობროთ",
+    "Offline": "გასულია",
+    "OpponentCardsTooltip": "{{count}} კარტი",
+    "LastDownCards": "ბოლოს ნატარები კარტები",
+    "Place": "ადგილი",
+    "Practice": "ვარჯიში",
+    "RankedGame": "თამაში რეიტინგზე",
+    "Languages": {
+      "en": "English",
+      "ka": "ქართული",
+      "ru": "Русский"
+    },
+    "Periods": {
+      "Today": "დღეს",
+      "Yesterday": "გუშინ",
+      "Now": "ამ წამს",
+      "Minutes": "{{count}} წუთის წინ",
+      "Hours": "{{count}} საათის წინ",
+      "DaysAgo": "{{count}} დღის წინ",
+      "MonthsAgo": "{{count}} თვის წინ",
+      "YearsAgo": "{{count}} წლის წინ"
+    }
+  },
+  "achievements": {
+    "TitlePlace": "ადგილი",
+    "TitlePremia": "პრემია",
+    "DescriptionPremia": "ყოველ პრემიაზე",
+    "Title9From9": "9-დან 9",
+    "TitleLeaveGame": "შეწყვეტა",
+    "DescriptionLeaveGame": "თამაშის შეწყვეტისას, თქვენ მიიღებთ 0 ვარსკვლავს თუ დაგროვებული ვარსკვლავების რაოდენობა მეტია 0-ზე, სხვა შემთხვევაში დამატებით ერთი ვარსკვლავი დაგაკლდებათ"
+  },
+  "playerLevels": {
+    "Refreshing": "...",
+    "Level1": "დამწყები",
+    "Level2": "მოყვარული",
+    "Level3": "პროფესიონალი",
+    "Level4": "იგროკი",
+    "Level5": "მასტერი",
+    "Level6": "ჯოკერის მამა"
+  },
+  "account": {
+    "Feedback": "თქვენი შეტყობინება",
+    "LeaveGame": "თამაშის დატოვება",
+    "ViewProfile": "პროფილი",
+    "Logout": "გამოსვლა",
+    "ClearChat": "ჩატის წაშლა"
+  },
+  "card": {
+    "Want": "მინდა",
+    "Take": "წაიღოს",
+    "Valet": "ჯეკი",
+    "Queen": "დედოფ.",
+    "King": "მეფე",
+    "Star": "ვარსკვ.",
+    "Magic": "ჯ"
+  },
+  "chatbox": {
+    "PublicTableTitle": "მოგესალმები, ღია მაგიდაზე, დაელოდეთ მოწინააღმდეგეებს და თამაშიც დაიწყება",
+    "PrivateTableTitle": "მოგესალმები, დახურულ მაგიდაზე, გაუზიარე ეს ლინკი მეგობრებს და ეთამაშე მათ",
+    "TypeMessageHere": "შეტყობინების ტექსტი",
+    "SendEmotion": "ემოციის გაგზავნა"
+  },
+  "chatsmiles": {
+    "LabelRecent": "ბოლო",
+    "LabelEmotions": "ემოციები",
+    "LabelVIPEmotions": "VIP ემოცეიბი",
+    "LabelVIPOnly": "მხოლოდ VIP"
+  },
+  "colorselection": {
+    "PleaseSelectDominatedColor": "გთხოვთ აირჩიოთ დომინირებული ფერი",
+    "NoDominatedColor": "არცერთი ფერი",
+    "Select": "არჩევა",
+    "WantTakeLabel": "გთხოვთ აირჩიოთ",
+    "WantAction": "მინდა",
+    "TakeAction": "წაიღოს",
+    "WantLabel": "რა ფერის კარტი გსურთ?",
+    "TakeLabel": "რა ფერის კარტმა წაიღოს?"
+  },
+  "declaration": {
+    "MainLabel": "ცხადება",
+    "Pass": "პასი",
+    "RequireToFill": "შევსება"
+  },
+  "musicplayer": {
+    "FavoriteChannels": "ფავორიტები",
+    "FeaturedChannels": "რეკომენდირებული",
+    "OtherChannels": "მუსიკალური არხები",
+    "Search": "ძიება"
+  },
+  "notification": {
+    "ConnectingServerLabel": "ვუკავშირდებით სერვერს ნიკით ",
+    "AuthenticatingLabel": "მომხმარებლის იდენთიფიკაცია...",
+    "RequireAuthorizationLabel": "საჭიროა ავტორიზაცია",
+    "WaitingForOpponentLabel": "ველოდებით მოწინააღმდეგეს",
+    "GameStartingLabel": "თამაში იწყება {{seconds}} წამში, გთხოვთ აირჩიოთ ადგილები...",
+    "ConnectionClosedLabel": "სერვერთან კავშირი დაიხურა. შესაძლო მიზეზი:",
+    "ConnectionClosedReason1": "სხვა შევიდა თქვენი მომხმარებლით",
+    "ConnectionClosedReason2": "კავშირი გაწყდა სერვერთან",
+    "ReconnectButton": "თავიდან დაკავშირება"
+  },
+  "profile": {
+    "Free": "ადგილი",
+    "TapToSit": "არჩევისთვის დააჭირეთ",
+    "Me": "მე",
+    "FriendRequest": "ვიმეგობროთ",
+    "FriendRequestSent": "ველოდებით პასუხს...",
+    "Friend": "მეგობარი",
+    "Block": "გაჩუმება",
+    "Unblock": "ჩართვა",
+    "Opponent": "ოპონენტი",
+    "WaitingForOpponent": "ველოდებით ოპონენტს",
+    "ListenSameChannel": "იგივე მუსიკალური არხის ჩართვა"
+  },
+  "infopanel": {
+    "DominatedColor": "დომინირებული ფერი",
+    "NoDominatedColor": "დომინირებული არცერთი ფერი",
+    "Special": "სპეცი",
+    "ChatFree": "თავისუფალი",
+    "ChatSmilesOnly": "მხოლოდ ემოციები",
+    "TablePublic": "ღია მაგიდა",
+    "TablePrivate": "დახურული მაგიდა",
+    "LabelTable": "მაგიდა",
+    "LabelDring": "ხიშტი",
+    "LabelChat": "ჩატი",
+    "LabelBalanceInsufficiency": "წაგლეჯვაა",
+    "LabelBalanceExtraCards": "შეტენვაა",
+    "QuickPlay": "იაპონური ჯოკერი",
+    "Room": "დახურული ოთახი"
+  },
+  "finishinfo": {
+    "NewGame": "ახალი თამაშის დაწყება",
+    "LeaveGame": "გამოსვლა",
+    "LowLevelPlayersGameInfo": "რეიტინგი არ მოგემატათ პატარა დონის მოთამაშეებთან თამაშის გამო. გამოიყენეთ ოთახები თქვენი დონის მოთამაშეებთან სათამაშოდ."
+  },
+  "home": {
+    "MainTitle": "ონლაინ ჯოკერი",
+    "MainSubTitle": "ახალი Jok კარტით",
+    "MainSubTitle2": "{{count}} მოთამაშე",
+    "QuickPlay": "სწრაფი თამაში",
+    "QuickPlayDescription": "იაპონური ჯოკერი",
+    "Play": "თამაში",
+    "PlayDescription": "მეგობრებთან და უცნობებთან",
+    "Rooms": "ოთახები",
+    "RoomsDescription": "ღია და დახურული",
+    "PlayWithFriends": "რეიტინგი",
+    "PlayWithFriendsDescription": "მოთამაშის დონეები",
+    "MobileApp": "გადმოწერა",
+    "Practice": "შეეჯიბრე მეგობარს",
+    "MoreGames": "თამაშები",
+    "VisitOldPortal": "პორტალის ძველი ვერსია",
+    "MobileVersions": "გადმოწერეთ მობილურის ვერსია!",
+    "Tournament": "ტურნირი",
+    "TournamentDescription": "მალე...",
+    "TopPlayers": "სტატისტიკა",
+    "TopPlayersDescription": "Top მოთამაშეები"
+  },
+  "lobby": {
+    "MainTitle": "თამაში",
+    "PublicRooms": "ღია ოთახები",
+    "RankedModes": "რეიტინგზე",
+    "WithFriends": "მეგობრებთან",
+    "Standard": "სტანდარტული",
+    "Only9": "მხოლოდ 9-ანები",
+    "Dring": "ხიშტი",
+    "PlayWithFriendNote": "ყურადღება: მეგობრებთან თამაშის დროს რეიტინგი არ მოგემატებათ",
+    "HowRankingWork": "რეიტინგების სისტემა, როგორ მუშაობს?"
+  },
+  "login": {
+    "MainTitle": "შემოგვიერთდი",
+    "MainSubTitle": "აირჩიეთ ერთ ერთი მეთოდი",
+    "InvalidCredentials": "არასწორია მომხმარებელი ან პაროლი",
+    "JokAccount": "Jok მომხმარებლით",
+    "JokAccountNoteMini": "რეგისტრირებულთათვის",
+    "JokAccountNote": "მხოლოდ უკვე რეგისტრირებული მომხმარებლებისთვის",
+    "UsernamePlaceholder": "ელ. ფოსტა",
+    "PasswordPlaceholder": "პაროლი",
+    "Login": "შესვლა",
+    "SocialNetworks": "სოციალური ქსელით",
+    "SocialNetworksNoteMini": "Facebook, Однокласники, ...",
+    "SocialNetworksNote": "გამოვიყენებთ მხოლოდ სწრაფი ავტორიზაციისთვის, თამაშის დროს არსად არ გამოჩნდება",
+    "Device": "სწრაფი რეგისტრაცია",
+    "DeviceRegistration": "ტელეფონით",
+    "DeviceRegistrationDescriptionMini": "ავტორიზაცია ტელეფონით",
+    "DeviceRegistrationDescription": "თქვენი მომხმარებლის იდენთიფიცირება მოხდება ტელეფონით."
+  },
+  "mobile": {
+    "MainTitle": "მობილური ვერსია",
+    "MainSubTitle": "ითამაშეთ უკვე თქვენი ტელეფონიდან და პლანშეტიდან",
+    "ChoosePlatform": "გადმოწერეთ"
+  },
+  "rooms": {
+    "MainTitle": "ოთახები",
+    "MainSubTitle": "მაღალი დონის მოთამაშეებისთვის.",
+    "MainSubTitle2": "მინიმუმ საჭირო დონე:",
+    "ModeStandard": "სტანდარტ.",
+    "ModeOnly9": "მხოლოდ 9",
+    "DringSpecial": "სპეც.",
+    "JoinButton": "შესვლა",
+    "LeaveButton": "გამოსვლა",
+    "CreateButton": "შექმნა",
+    "NewRoom": "ახალი ოთახი",
+    "MinimalLevel": "მინიმ. დონე",
+    "Kicked": "გამოგაგდეს",
+    "Public": "ღია ოთახები",
+    "Private": "მეგობრეთან თამაში",
+    "NoPublicRoomsInfo": "ამ მომენტისთვის ღია მაგიდები არ არის",
+    "Practice": "ვარჯიში",
+    "PracticeDescription": "ამ ოთახში თამაშის შემთხვევაში რეიტინგი არ მოგემატებათ და არც დაგაკლდებათ",
+    "NotRankedMode": "გასართობად",
+    "RankedMode": "რეიტინგზე",
+
+    "FriendsSearchTitle": "ოთახის მოძებნა",
+    "FriendsNewRoomTitle": "ახალი ოთახი",
+    "FriendsModeStandard": "სტანდარტ.",
+    "FriendsModeStandardDescription": "24 რიგება",
+    "FriendsModeOnly9": "მხოლოდ 9",
+    "FriendsModeOnly9Description": "16 რიგება",
+    "FriendsModeJapanese": "იაპონური",
+    "FriendsModeJapaneseDescription": "1 რიგება",
+    "FriendsDringSpecial": "სპეც.",
+    "FriendsCreateButton": "შექმნა",
+    "FriendsJoinButton": "შესვლა",
+    "FriendsRoomNumber": "ოთახის ნომერი"
+  },
+  "ratings": {
+    "MainTitle": "რეიტინგი",
+    "LevelUp": "ახალი დონე",
+    "TopPlayers": "მოთამაშის დონეები",
+    "HowItWorks": "როგორ მუშაობს?",
+    "RuleDescription1": "რეიტინგი მოგემატებათ თუ მაგიდაზე თამაშობენ მინიმუმ თქვენი დონის, ან თქვენზე ერთით ქვედა დონის მოთამაშეები. სხვა შემთხვევაში წაგებისას რეიტინგი ჩვეულებრივ დაგაკლდებათ, ხოლო მოგების შემთხვევაში არ მოგემატებათ. როდესაც უკვე გადახვალთ მაღალ დონეზე, შეგიძლიათ გამოიყენოთ ღია ოთახები და შეზღუდოთ ოთახში შემომსვლელი მოთამაშეები დონის მიხედვით.",
+    "RuleDescription2": "რეიტინგი მოგემატებათ მხოლოდ 'თამაში რეიტინგზე' რეჟიმის და ღია ოთახებში თამაშის შემთხვევაში. დახურულ მაგიდაზე მეგობრებთნ თამაშის დროს, რეიტინგი არ ემატება მოთამაშეს.",
+    "GamesHistory": "თამაშების ისტორია",
+    "LabelLevelAfterGame": "დონე, თამაშის შემდგომ",
+    "ViewMore": "ნახეთ მეტი"
+  },
+  "statistics": {
+    "MainTitle": "Top მოთამაშეები",
+    "MainOverall": "საერთო რეიტინგით",
+    "MainFastGrowing": "სწრაფად ზრდადი",
+    "MainMostActive": "ყველაზე აქტიური",
+    "Global": "საუკეთესოები",
+    "YouWithFriends": "შენ და მეგობრები",
+    "Games": "თამაში"
+  },
+  "playerinfo": {
+    "Me": "მე",
+    "Friend": "მეგობარი",
+    "SendFriendRequest": "+ მეგობრობის შეთავაზება",
+    "GameCount": "თამაშები",
+    "LeaveRate": "შეწყვეტა",
+    "LastPlayDate": "ბოლო აქტივობა",
+    "JoinDate": "რეგისტრაცია",
+    "ViewJokProfile": "სრული პროფილის ნახვა",
+    "VisibleOnlyForFriends": "ხედავენ მხოლოდ მეგობრები",
+    "ChangeNickname": "ნიკის შეცვლა",
+    "LastRankedGame": "ბოლო თამაში"
+  }
+}

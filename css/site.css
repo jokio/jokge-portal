@@ -1,0 +1,138 @@
+
+
+/*IE Mobile Hack*/
+body, html {
+    -ms-overflow-style: none !important;
+}
+
+@viewport {
+    width: 800px;
+}
+
+@-ms-viewport {
+    width: 800px;
+    zoom-user: fixed;
+    max-zoom: 1;
+    min-zoom: 1;
+}
+/*IE Mobile Hack*/
+
+
+
+body {
+    background: #27ae60;
+    cursor: default;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Segoe UI Light','Helvetica Neue','Arial','Helvetica';
+}
+
+html[lang=ka] body button,
+html[lang=ka] body a {
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Arial', 'Sylfaen', 'Helvetica Neue', 'Helvetica';
+}
+
+.coolfont{
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Segoe UI Light','Helvetica Neue','Arial','Helvetica'!important;
+}
+
+[hidden] {
+    display: none;
+}
+
+.noselect {
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Chrome/Safari/Opera */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* IE/Edge */
+    user-select: none;
+    /* non-prefixed version, currently */
+}
+
+loader {
+    color: white;
+    width: 200px;
+    position: absolute;
+    left: 50%;
+    margin-left: -100px;
+    top: 50%;
+    text-align: center;
+    margin-top: -12px;
+    font-size: 20px;
+}
+
+.ios-scroll {
+    /* Turn on custom 8px wide scrollbar */
+    /* hover effect for both scrollbar area, and scrollbar 'thumb' */
+    /* The scrollbar 'thumb' ...that marque oval shape in a scrollbar */
+}
+
+.ios-scroll::-webkit-scrollbar {
+    width: 8px;
+    /* 1px wider than Lion. */
+    /* This is more usable for users trying to click it. */
+    background-color: rgba(0, 0, 0, 0);
+    -webkit-border-radius: 100px;
+    border-radius: 100px;
+}
+
+.ios-scroll::-webkit-scrollbar:hover {
+    background-color: rgba(0, 0, 0, 0.09);
+}
+
+.ios-scroll::-webkit-scrollbar-thumb:vertical {
+    /* This is the EXACT color of Mac OS scrollbars. 
+     Yes, I pulled out digital color meter */
+    background: rgba(0, 0, 0, 0);
+    -webkit-border-radius: 100px;
+    border-radius: 100px;
+}
+
+.ios-scroll:hover::-webkit-scrollbar-thumb:vertical,
+.ios-scroll:active::-webkit-scrollbar-thumb:vertical,
+.ios-scroll:focus::-webkit-scrollbar-thumb:vertical {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.ios-scroll::-webkit-scrollbar-thumb:vertical:active {
+    background: rgba(0, 0, 0, 0.61);
+    /* Some darker color when you click it */
+    -webkit-border-radius: 100px;
+    border-radius: 100px;
+}
+
+img.smile {
+    background: #F6FCFF;
+    border-radius: 2px;
+    padding: 5px;
+    width: 27px;
+    height: 27px;
+}
+
+.bigsmile img.smile {
+    width: 31px;
+    height: 31px;
+}
+
+span.inchatbox span {
+    vertical-align: middle;
+}
+
+span.inchatbox img {
+    display: none;
+    padding: 4px;
+    /*background: rgba(255, 255, 255, 0.7);*/
+    border-radius: 3px;
+}
+
+span.inchatbox.animated span,
+span.inchatbox:hover span {
+    display: none;
+}
+
+span.inchatbox.animated img,
+span.inchatbox:hover img {
+    display: inline;
+}

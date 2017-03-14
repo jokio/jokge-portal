@@ -1,0 +1,263 @@
+{
+  "common": {
+    "Copy": "Copy",
+    "Points": "Points",
+    "Rating": "Rating",
+    "BeFriends": "let's be friends",
+    "Offline": "Offline",
+    "OpponentCardsTooltip": "{{count}} Cards",
+    "LastDownCards": "Last Cards",
+    "Place": "Place",
+    "Practice": "Practice",
+    "RankedGame": "Ranked Game",
+    "Languages": {
+      "en": "English",
+      "ka": "ქართული",
+      "ru": "Русский"
+    },
+    "Periods": {
+      "Today": "today",
+      "Yesterday": "yesterday",
+      "Now": "now",
+      "Minutes": "{{count}} minutes ago",
+      "Hours": "{{count}} hours ago",
+      "DaysAgo": "{{count}} days ago",
+      "MonthsAgo": "{{count}} months ago",
+      "YearsAgo": "{{count}} years ago"
+    }
+  },
+  "achievements": {
+    "TitlePlace": "Place",
+    "TitlePremia": "Bonus",
+    "DescriptionPremia": "On every bonus",
+    "Title9From9": "9 from 9",
+    "TitleLeaveGame": "Leave",
+    "DescriptionLeaveGame": "If you leave the started game, you will get 0 stars if you have more than 0 stars, otherwise you will get additional -1 star"
+  },
+  "playerLevels": {
+    "Refreshing": "...",
+    "Level1": "Beginner",
+    "Level2": "Amateur",
+    "Level3": "Professional",
+    "Level4": "Gamer",
+    "Level5": "Master",
+    "Level6": "Joker"
+  },
+  "account": {
+    "Feedback": "Feedback",
+    "LeaveGame": "Leave Game",
+    "ViewProfile": "View Profile",
+    "Logout": "Logout",
+    "ClearChat": "Clear Chat"
+  },
+  "card": {
+    "Want": "Want",
+    "Take": "Take",
+    "Valet": "Jack",
+    "Queen": "Queen",
+    "King": "King",
+    "Star": "Star",
+    "Magic": "Magic"
+  },
+  "chatbox": {
+    "PublicTableTitle": "Hey, It's public table, please wait your opponent",
+    "PrivateTableTitle": "Hey, It's private table, share this link to your friends and play with them",
+    "TypeMessageHere": "Type message here",
+    "SendEmotion": "Send Emotion"
+  },
+  "chatsmiles": {
+    "LabelRecent": "Recent",
+    "LabelEmotions": "Emotions",
+    "LabelVIPEmotions": "VIP Emotions",
+    "LabelVIPOnly": "VIP Only"
+  },
+  "colorselection": {
+    "PleaseSelectDominatedColor": "Please select dominated color",
+    "NoDominatedColor": "No Dominated Color",
+    "Select": "Select",
+    "WantTakeLabel": "Select Action",
+    "WantAction": "Want",
+    "TakeAction": "Don't Want",
+    "WantLabel": "Which highest color card you want?",
+    "TakeLabel": "Which color want to take?"
+  },
+  "declaration": {
+    "MainLabel": "Bidding",
+    "Pass": "Pass",
+    "RequireToFill": "Fill to your opponent"
+  },
+  "musicplayer": {
+    "FavoriteChannels": "Favorites",
+    "FeaturedChannels": "Featured",
+    "OtherChannels": "Music Channels",
+    "Search": "Search"
+  },
+  "notification": {
+    "ConnectingServerLabel": "Connecting to server as ",
+    "AuthenticatingLabel": "Identification...",
+    "RequireAuthorizationLabel": "Require Authorization",
+    "WaitingForOpponentLabel": "Waiting for an opponent",
+    "GameStartingLabel": "Game is starting in {{seconds}} seconds, Please select your position...",
+    "ConnectionClosedLabel": "Connection closed.",
+    "ConnectionClosedReason1": "Another client logged in using your user",
+    "ConnectionClosedReason2": "Connection lost to the jok server",
+    "ReconnectButton": "Re-Connect"
+  },
+  "profile": {
+    "Free": "Free",
+    "TapToSit": "Tap to Sit",
+    "Me": "Me",
+    "FriendRequest": "Friend Request",
+    "FriendRequestSent": "Pending Request...",
+    "Friend": "Friend",
+    "Block": "Mute",
+    "Unblock": "Unmute",
+    "Opponent": "Opponent",
+    "WaitingForOpponent": "Waiting for an opponent",
+    "ListenSameChannel": "Listen to the same channel"
+  },
+  "infopanel": {
+    "DominatedColor": "Dominated Color",
+    "NoDominatedColor": "Dominated No Color",
+    "Special": "Special",
+    "ChatFree": "Free",
+    "ChatSmilesOnly": "Only Smiles",
+    "TablePublic": "Open Table",
+    "TablePrivate": "Private Table",
+    "LabelTable": "Table",
+    "LabelDring": "Dring",
+    "LabelChat": "Chat",
+    "LabelBalanceInsufficiency": "Pull out",
+    "LabelBalanceExtraCards": "Push in",
+    "QuickPlay": "Quick Play",
+    "Room": "Private Room"
+  },
+  "finishinfo": {
+    "NewGame": "Start New Game",
+    "LeaveGame": "Leave Game",
+    "LowLevelPlayersGameInfo": "Low level players, rating was not added. Please use Rooms and play with your level players to get rating."
+  },
+  "home": {
+    "MainTitle": "Online Joker Game",
+    "MainSubTitle": "Card Game",
+    "MainSubTitle2": "Online Players: {{count}} ",
+    "QuickPlay": "Quick Play",
+    "QuickPlayDescription": "1 Round",
+    "Play": "Play",
+    "PlayDescription": "Practice & Ranked Mode",
+    "Rooms": "Rooms",
+    "RoomsDescription": "Find Players & Rooms",
+    "PlayWithFriends": "Ranking",
+    "PlayWithFriendsDescription": "Levels, Games History",
+    "MobileApp": "Download",
+    "Practice": "Practice",
+    "MoreGames": "More Games",
+    "VisitOldPortal": "Old Version",
+    "MobileVersions": "Download Mobile Version",
+    "Tournament": "Tournament",
+    "TournamentDescription": "Comming Soon...",
+    "TopPlayers": "Top Players",
+    "TopPlayersDescription": "Ratings & Positions"
+  },
+  "lobby": {
+    "MainTitle": "Play",
+    "PublicRooms": "Public Rooms",
+    "RankedModes": "Ranked Modes",
+    "WithFriends": "With Friends",
+    "Standard": "Standard",
+    "Only9": "Only 9",
+    "Dring": "Dring",
+    "PlayWithFriendNote": "Note: Rating will not be calculated while playing with friends",
+    "HowRankingWork":  "Ranking System, how it work?"
+  },
+  "login": {
+    "MainTitle": "Join Us",
+    "MainSubTitle": "Please select login method",
+    "InvalidCredentials": "Invalid username or password",
+    "JokAccount": "Jok Account",
+    "JokAccountNoteMini": "For registered users only",
+    "JokAccountNote": "Note: for registered users only.",
+    "UsernamePlaceholder": "e-mail",
+    "PasswordPlaceholder": "password",
+    "Login": "Login",
+    "SocialNetworks": "Social Networks",
+    "SocialNetworksNoteMini": "Facebook, Google Plus, ...",
+    "SocialNetworksNote": "Note: We will not send you any kind of notifications, just for fast identification.",
+    "Device": "Fast Registration",
+    "DeviceRegistration": "Mobile Phone",
+    "DeviceRegistrationDescriptionMini": "Using your mobile device",
+    "DeviceRegistrationDescription": "Note: We will not ask your phone number. Your device will be used just for identification."
+  },
+  "mobile": {
+    "MainTitle": "Mobile App",
+    "MainSubTitle": "Play from your mobile phone or tablet",
+    "ChoosePlatform": "Download"
+  },
+  "rooms": {
+    "MainTitle": "Rooms",
+    "MainSubTitle": "Public Rooms",
+    "MainSubTitle2": "Minimum level:",
+    "ModeStandard": "Standard",
+    "ModeOnly9": "Only 9",
+    "DringSpecial": "Special",
+    "JoinButton": "Join",
+    "LeaveButton": "Leave",
+    "CreateButton": "Create",
+    "NewRoom": "New Room",
+    "MinimalLevel": "Minimal Level",
+    "Kicked": "Kicked",
+    "Public": "Public",
+    "Private": "Private",
+    "NoPublicRoomsInfo": "No public rooms, at this moment",
+    "Practice": "Practice",
+    "PracticeDescription": "This is not ranked room, your rating will not be changed while playing in this type of room",
+    "NotRankedMode": "Not Ranked",
+    "RankedMode": "Ranked",
+
+    "FriendsSearchTitle": "Find the room",
+    "FriendsNewRoomTitle": "New room",
+    "FriendsModeStandard": "Standard",
+    "FriendsModeStandardDescription": "24 Rounds",
+    "FriendsModeOnly9": "Only 9",
+    "FriendsModeOnly9Description": "16 Rounds",
+    "FriendsModeJapanese": "Japanese",
+    "FriendsModeJapaneseDescription": "1 Round",
+    "FriendsDringSpecial": "Special",
+    "FriendsCreateButton": "Create",
+    "FriendsJoinButton": "Join",
+    "FriendsRoomNumber": "Room Number"
+  },
+  "ratings": {
+    "MainTitle": "Ranking",
+    "LevelUp": "Level Up",
+    "TopPlayers": "Player Levels",
+    "HowItWorks": "How it works?",
+    "RuleDescription1": "You must play to players with your level, to get more rating. When you will be high level player, you can use rooms to find players with your level.",
+    "RuleDescription2": "To get more rating, play in Ranked Modes or Public Rooms (Ranked)",
+    "GamesHistory": "Games History",
+    "LabelLevelAfterGame": "Level after game",
+    "ViewMore": "View more"
+  },
+  "statistics": {
+    "MainTitle": "Top Players",
+    "MainOverall": "Overall",
+    "MainFastGrowing": "Fast Growing",
+    "MainMostActive": "Most Active",
+    "Global": "Global",
+    "YouWithFriends": "You & Friends",
+    "Games": "Games"
+  },
+  "playerinfo": {
+    "Me": "Me",
+    "Friend": "Friend",
+    "SendFriendRequest": "+ Friend Request",
+    "GameCount": "Games",
+    "LeaveRate": "Leave Rate",
+    "LastPlayDate": "Last Activity",
+    "JoinDate": "Join Date",
+    "ViewJokProfile": "View Jok Profile",
+    "VisibleOnlyForFriends": "Visible only for friends",
+    "ChangeNickname": "Change Nick",
+    "LastRankedGame": "Last Ranked Game"
+  }
+}

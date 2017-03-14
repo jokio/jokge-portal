@@ -1,0 +1,263 @@
+{
+  "common": {
+    "Copy": "Copy",
+    "Points": "Очки",
+    "Rating": "Рейтинг",
+    "BeFriends": "давай будем друзьями",
+    "Offline": "Не в сети",
+    "OpponentCardsTooltip": "{{count}} Карты",
+    "LastDownCards": "Последние карты",
+    "Place": "Место",
+    "Practice": "Практика",
+    "RankedGame": "Игра для рейтинга",
+    "Languages": {
+      "en": "English",
+      "ka": "ქართული",
+      "ru": "Русский"
+    },
+    "Periods": {
+      "Today": "сегодня",
+      "Yesterday": "вчера",
+      "Now": "сейчас",
+      "Minutes": "{{count}} минут назад",
+      "Hours": "{{count}} часов назад",
+      "DaysAgo": "{{count}} дня назад",
+      "MonthsAgo": "{{count}} месяца назад",
+      "YearsAgo": "{{count}} года назад"
+    }
+  },
+  "achievements": {
+    "TitlePlace": "Место",
+    "TitlePremia": "Премия",
+    "DescriptionPremia": "",
+    "Title9From9": "9 из 9",
+    "TitleLeaveGame": "Прекращение",
+    "DescriptionLeaveGame": "Когда вы выходите из игры, вы получите 0 звезд, если у вас есть больше, чем 0 звезд, в противном случае вы получите дополнительную звезду -1"
+  },
+  "playerLevels": {
+    "Refreshing": "...",
+    "Level1": "Новичок",
+    "Level2": "Любитель",
+    "Level3": "Профессиональ",
+    "Level4": "Игрок",
+    "Level5": "Мастер",
+    "Level6": "Джокер"
+  },
+  "account": {
+    "Feedback": "Обратная связь",
+    "LeaveGame": "Оставить игру",
+    "ViewProfile": "Профиль",
+    "Logout": "Выйти",
+    "ClearChat": "Очистить чат"
+  },
+  "card": {
+    "Want": "Хочу",
+    "Take": "Возьми",
+    "Valet": "Джек",
+    "Queen": "Королева",
+    "King": "Король",
+    "Star": "Звезда",
+    "Magic": "Магия"
+  },
+  "chatbox": {
+    "PublicTableTitle": "Эй, это публичная игра, пожалуйста, подождите вашего оппонента",
+    "PrivateTableTitle": "Эй, это частная игра, поделитесь ссылкой с друзьями и играть с ними",
+    "TypeMessageHere": "Введите сообщение здесь",
+    "SendEmotion": "Отправить эмоции"
+  },
+  "chatsmiles": {
+    "LabelRecent": "Недавние",
+    "LabelEmotions": "Эмоции",
+    "LabelVIPEmotions": "VIP Эмоции",
+    "LabelVIPOnly": "Только VIP"
+  },
+  "colorselection": {
+    "PleaseSelectDominatedColor": "Пожалуйста, выберите доминирующий цвет",
+    "NoDominatedColor": "Нет Доминантный цвет",
+    "Select": "Выбрать",
+    "WantTakeLabel": "Выберите действие",
+    "WantAction": "Хочу",
+    "TakeAction": "Возьми",
+    "WantLabel": "Какой самый высокий цвет карты вы хотите?",
+    "TakeLabel": "Какой цвет хотите взять?"
+  },
+  "declaration": {
+    "MainLabel": "Пожалуйста, выберите количество карт, которые вы будете принимать на этот шаг",
+    "Pass": "Пасс",
+    "RequireToFill": "Наполнение к противнику"
+  },
+  "musicplayer": {
+    "FavoriteChannels": "Избранное",
+    "FeaturedChannels": "Рекомендуемые",
+    "OtherChannels": "Музыкальные каналы",
+    "Search": "Поиск"
+  },
+  "notification": {
+    "ConnectingServerLabel": "Подключение к серверу, как ",
+    "AuthenticatingLabel": "Идентификация...",
+    "RequireAuthorizationLabel": "Требовать Авторизация",
+    "WaitingForOpponentLabel": "В ожидании соперника",
+    "GameStartingLabel": "Игра начинается в {{seconds}} секунд, Пожалуйста, выберите позицию ...",
+    "ConnectionClosedLabel": "Соединение закрыто.",
+    "ConnectionClosedReason1": "Другой клиент вошли в систему с помощью ваших пользователей",
+    "ConnectionClosedReason2": "Соединение потеряно к jok серверу",
+    "ReconnectButton": "Подключить"
+  },
+  "profile": {
+    "Free": "Свободно",
+    "TapToSit": "Нажмите, чтобы Сидеть",
+    "Me": "Me",
+    "FriendRequest": "Запрос в друзья",
+    "FriendRequestSent": "В ожидании ответа...",
+    "Friend": "Друг",
+    "Block": "Отключение",
+    "Unblock": "Включить",
+    "Opponent": "Соперник",
+    "WaitingForOpponent": "В ожидании соперника",
+    "ListenSameChannel": "Слушайте тот же канал"
+  },
+  "infopanel": {
+    "DominatedColor": "Доминантный цвет",
+    "NoDominatedColor": "Нет Доминантный цвет",
+    "Special": "Спец.",
+    "ChatFree": "Свободно",
+    "ChatSmilesOnly": "Только эмоции",
+    "TablePublic": "Открытая игра",
+    "TablePrivate": "Частная игра",
+    "LabelTable": "Игра",
+    "LabelDring": "Штык",
+    "LabelChat": "Чат",
+    "LabelBalanceInsufficiency": "Недостаточность",
+    "LabelBalanceExtraCards": "Extra карты",
+    "QuickPlay": "Японский Джокер",
+    "Room": "Частная комната"
+  },
+  "finishinfo": {
+    "NewGame": "Начать новую игру",
+    "LeaveGame": "Оставить игру",
+    "LowLevelPlayersGameInfo": "Низкий уровень игроков, рейтинг не был добавлен. Используйте Комнаты и играйте с игроками высокого уровня, чтобы получить рейтинг."
+  },
+  "home": {
+    "MainTitle": "Онлайн Джокер",
+    "MainSubTitle": "Карточная игра",
+    "MainSubTitle2": "{{count}} игроки",
+    "QuickPlay": "Быстрая игра",
+    "QuickPlayDescription": "Японский Джокер",
+    "Play": "Играть",
+    "PlayDescription": "Стандартный",
+    "Rooms": "Комнаты",
+    "RoomsDescription": "Найти Игроки & Комнаты",
+    "PlayWithFriends": "Рейтинги",
+    "PlayWithFriendsDescription": "Уровни, История Игры",
+    "MobileApp": "Скачать",
+    "Practice": "Практика",
+    "MoreGames": "Игры",
+    "VisitOldPortal": "Старый портал",
+    "MobileVersions": "Скачать Мобильная версия",
+    "Tournament": "Турнир",
+    "TournamentDescription": "Скоро...",
+    "TopPlayers": "Топ игроки",
+    "TopPlayersDescription": "Рейтинги и позиции"
+  },
+  "lobby": {
+    "MainTitle": "Играть",
+    "PublicRooms": "Комнаты",
+    "RankedModes": "Для Рейтинга",
+    "WithFriends": "С Друзьями",
+    "Standard": "Стандартный",
+    "Only9": "Только 9",
+    "Dring": "Штык",
+    "PlayWithFriendNote": "Примечание: Рейтинг не будет рассчитываться во время игры с друзьями",
+    "HowRankingWork": "Рейтинговая система, как работает?"
+  },
+  "login": {
+    "MainTitle": "Аутентификация",
+    "MainSubTitle": "Пожалуйста, выберите",
+    "InvalidCredentials": "Неправильное имя пользователя или пароль",
+    "JokAccount": "Jok Пользователь",
+    "JokAccountNoteMini": "Для зарегистрированих",
+    "JokAccountNote": "Примечание: только для зарегистрированных пользователей.",
+    "UsernamePlaceholder": "эл. адрес",
+    "PasswordPlaceholder": "пароль",
+    "Login": "Вход",
+    "SocialNetworks": "Социальные сети",
+    "SocialNetworksNoteMini": "Вконтакте, Однокласники, ...",
+    "SocialNetworksNote": "Примечание: Мы не будем посылать вам любой вид уведомлений, только для быстрой идентификации.",
+    "Device": "Быстрая регистрация",
+    "DeviceRegistration": "Мобильный телефон",
+    "DeviceRegistrationDescriptionMini": "С помощью мобильного",
+    "DeviceRegistrationDescription": "Мы не будем спрашивать ваш номер телефона. Ваш телефон будет использоваться только для идентификации."
+  },
+  "mobile": {
+    "MainTitle": "Мобильная версия",
+    "MainSubTitle": "Играть с помощью мобильного телефона",
+    "ChoosePlatform": "Скачать"
+  },
+  "rooms": {
+    "MainTitle": "Комнаты",
+    "MainSubTitle": "Для игроков высокого уровня",
+    "MainSubTitle2": "Минимальный уровень:",
+    "ModeStandard": "Стандарт.",
+    "ModeOnly9": "Только 9",
+    "DringSpecial": "Спец.",
+    "JoinButton": "Войти",
+    "LeaveButton": "Выход",
+    "CreateButton": "Создать",
+    "NewRoom": "Новая Комната",
+    "MinimalLevel": "Миним. уровень",
+    "Kicked": "Выгнали",
+    "Public": "Открытый",
+    "Private": "Частный",
+    "NoPublicRoomsInfo": "Нет Общедоступные комнаты, в данный момент",
+    "Practice": "Практика",
+    "PracticeDescription": "Это не попал в статистику номер, ваш рейтинг не будет изменен во время воспроизведения в этом типе комнаты",
+    "NotRankedMode": "Для практики",
+    "RankedMode": "Для рейтинга",
+
+    "FriendsSearchTitle": "Найти комнату",
+    "FriendsNewRoomTitle": "Новая комната",
+    "FriendsModeStandard": "Стандарт.",
+    "FriendsModeStandardDescription": "24 Раундов",
+    "FriendsModeOnly9": "Только 9",
+    "FriendsModeOnly9Description": "16 Раундов",
+    "FriendsModeJapanese": "Японский",
+    "FriendsModeJapaneseDescription": "1 Раундов",
+    "FriendsDringSpecial": "Спец.",
+    "FriendsCreateButton": "Создать",
+    "FriendsJoinButton": "Войти",
+    "FriendsRoomNumber": "Номер комнаты"
+  },
+  "ratings": {
+    "MainTitle": "Рейтинг",
+    "LevelUp": "Новый уровень",
+    "TopPlayers": "Уровни игрока",
+    "HowItWorks": "Как это работает?",
+    "RuleDescription1": "Вы должны играть на игроков с вашим уровнем, чтобы получить больше рейтинга. Когда вы будете высокий уровень, вы можете использовать комнаты, чтобы найти игроков с вашим уровнем.",
+    "RuleDescription2": "Для того, чтобы получить больше рейтинг, играете в стандартном режиме и открытые комнаты (Ranked режим)",
+    "GamesHistory": "История игры",
+    "LabelLevelAfterGame": "Уровень после игры",
+    "ViewMore": "Показать еще"
+  },
+  "statistics": {
+    "MainTitle": "Топ игроки",
+    "MainOverall": "Общий рейтинг",
+    "MainFastGrowing": "Быстрорастущий",
+    "MainMostActive": "Наиболее активны",
+    "Global": "Глобальный",
+    "YouWithFriends": "Вы & Друзья",
+    "Games": "Игры"
+  },
+  "playerinfo": {
+    "Me": "Я",
+    "Friend": "Друг",
+    "SendFriendRequest": "+ запрос на дружбу",
+    "GameCount": "Игры",
+    "LeaveRate": "Оставил",
+    "LastPlayDate": "Последняя активность",
+    "JoinDate": "Регистрация",
+    "ViewJokProfile": "Просмотр Jok Профиль",
+    "VisibleOnlyForFriends": "Видна только для друзей",
+    "ChangeNickname": "Изменить ник",
+    "LastRankedGame": "Последняя игра"
+  }
+}
